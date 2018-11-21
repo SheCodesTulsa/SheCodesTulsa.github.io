@@ -1,0 +1,22 @@
+body{
+    font-size: 120px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+h1 {
+    font-weight: 100;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+div{
+    height: 500px;
+}
