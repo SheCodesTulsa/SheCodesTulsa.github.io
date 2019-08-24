@@ -19,6 +19,10 @@ a {
     text-decoration: none;
     color: black;
 }
+.small-link {
+    font-size: 30px;
+    text-decoration: darkgrey underline;
+}
 div{
     height: 500px;
 }
