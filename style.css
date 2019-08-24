@@ -21,7 +21,7 @@ a {
 }
 .small-link {
     font-size: 30px;
-    text-decoration: darkgrey underline;
+    text-decoration: underline;
 }
 div{
     height: 500px;
